@@ -7,12 +7,9 @@ This is a preview build of Grave Out, a work-in-progress Unity game. It utilizes
 This build creates player settings in your Windows registry ("Windows Prefs") and stores test save data in AppData/Roaming/.grave.
 The save functionality is currently for development purposes only and may not work reliably.
 
-**Error**
-There is a problem with UnauthorizedAccessException: Access to the path 'C:\Users\AppData\Roaming\.grave' is denied. Network Objects like chest and doors can't be loaded.
-
 **Important Extraction Instructions**
 
-Extract the contents of this package [GraveOut_Data](https://drive.google.com/file/d/1LhfQTe0XcR64S92jbpseUP3uhEiFRey3/view?usp=sharing)
+Extract the contents of this package [GraveOut_Data](https://drive.google.com/file/d/16J3hmYLqZ9h5v0IFNjWCNKIvPljgXzmc/view?usp=sharing)
 into the main 'grave_out_showcase' folder.
 
 
