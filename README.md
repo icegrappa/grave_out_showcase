@@ -16,8 +16,8 @@ into the main 'grave_out_showcase' folder.
 
 **Requirements**
 
-* Unity (version information would be helpful here)
-* Steamworks SDK (version information would be helpful here)
+* Unity (2022.3.20f1)
+* Steamworks SDK ()
 * Steam account (logged in)
 * `steam_appid.txt` file (with ID 480) placed in the game directory
 
